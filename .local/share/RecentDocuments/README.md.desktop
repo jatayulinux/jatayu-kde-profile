@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-markdown
+Name=README.md
+Type=Link
+URL[$e]=file:$HOME/lab/candy-icons/README.md
+X-KDE-LastOpenedWith=okularApplication_md

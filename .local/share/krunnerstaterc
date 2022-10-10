@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=7 exec:///usr/bin/latte-dock,1 exec:///usr/bin/alacritty,1 exec:///usr/bin/konsole,1 exec:///usr/bin/busctl --expect-reply=false --user call org.clight.clight /org/clight/clight org.clight.clight Capture bb false false,1 exec:///usr/bin/pcmanfm,1 exec:///usr/bin/nemo,1 krunner_systemsettings_kstyle_breeze_config,1 krunner_systemsettings_kcm_users,2 exec:///usr/bin/systemsettings,1 file:///home/vishnu/programs/snapd/src/snapd-2.57.4/strutil/strutil.go/packages/language-rust-bundled/settings,1 krunner_systemsettings_kcm_desktoptheme,1 exec:///usr/bin/thunar,1 exec:///usr/bin/github-desktop
+
+[PlasmaRunnerManager][History]
+af6bfbf5-c6de-4875-9480-fce8d701056c=latte,sett,style

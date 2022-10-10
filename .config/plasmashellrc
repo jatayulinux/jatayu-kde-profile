@@ -1,0 +1,128 @@
+[PlasmaViews][Panel 149][Defaults]
+maxLength=805
+minLength=802
+thickness=27
+
+[PlasmaViews][Panel 149][Horizontal1920]
+maxLength=805
+minLength=802
+thickness=27
+
+[PlasmaViews][Panel 151]
+alignment=2
+
+[PlasmaViews][Panel 151][Defaults]
+maxLength=805
+minLength=805
+thickness=27
+
+[PlasmaViews][Panel 151][Horizontal1920]
+maxLength=805
+minLength=805
+thickness=27
+
+[PlasmaViews][Panel 151][Vertical1080]
+thickness=36
+
+[PlasmaViews][Panel 170]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 170][Defaults]
+maxLength=730
+minLength=582
+thickness=54
+
+[PlasmaViews][Panel 170][Horizontal1920]
+maxLength=730
+minLength=582
+thickness=54
+
+[PlasmaViews][Panel 170][Vertical1080]
+thickness=44
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 2][Horizontal1600]
+thickness=44
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 28]
+alignment=132
+floating=0
+panelVisibility=2
+
+[PlasmaViews][Panel 28][Defaults]
+minLength=144
+offset=0
+thickness=64
+
+[PlasmaViews][Panel 28][Horizontal1920]
+minLength=144
+thickness=64
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=26
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=26
+
+[PlasmaViews][Panel 34]
+alignment=132
+floating=1
+panelVisibility=2
+
+[PlasmaViews][Panel 34][Defaults]
+maxLength=714
+minLength=714
+thickness=56
+
+[PlasmaViews][Panel 34][Horizontal1920]
+maxLength=714
+minLength=714
+thickness=56
+
+[PlasmaViews][Panel 36][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 36][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 59]
+alignment=132
+
+[PlasmaViews][Panel 59][Defaults]
+maxLength=312
+minLength=312
+offset=0
+thickness=27
+
+[PlasmaViews][Panel 59][Horizontal1920]
+maxLength=312
+minLength=312
+offset=0
+thickness=27
+
+[PlasmaViews][Panel 62]
+alignment=132
+floating=1
+panelVisibility=2
+
+[PlasmaViews][Panel 62][Defaults]
+minLength=582
+thickness=44
+
+[PlasmaViews][Panel 62][Horizontal1920]
+minLength=582
+
+[PlasmaViews][Panel 62][Vertical1080]
+thickness=44
+
+[ScreenConnectors]
+0=HDMI-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js

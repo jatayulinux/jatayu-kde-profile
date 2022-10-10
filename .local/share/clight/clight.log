@@ -1,0 +1,100 @@
+(W)[09:23:04]{config.c:411}	Config file /home/vishnu/.config/clight.conf not found.
+
+Clight
+* Software version:		4.8-fc3df9c
+* Global config dir:		/etc/default
+* Global data dir:		/usr/share/clight
+* Starting time:		Sun Oct  9 09:23:05 2022
+
+Starting options:
+
+### GENERIC ###
+* Verbose (debug):		Disabled
+* ResumeDelay:		0
+
+### BACKLIGHT ###
+* Smooth trans:		Enabled
+* Smooth step:		0.05
+* Smooth timeout:		30
+* Smooth fixed:		0
+* Daily timeouts:		AC 600	BATT 1200
+* Nightly timeouts:		AC 2700	BATT 5400
+* Event timeouts:		AC 300	BATT 600
+* Shutter threshold:		0.00
+* Autocalibration:		Enabled
+* Pause on lid closed:		Disabled
+* Capture on lid opened:		Disabled
+* Restore On Exit:		Disabled
+
+### SENSOR ###
+* Captures:		AC 5	BATT 5
+* Device:		Unset
+* Settings:		Unset
+
+### KEYBOARD ###
+* Dim:		Disabled
+* Timeouts:		AC 15	BATT 5
+
+### GAMMA ###
+* Smooth trans:		Enabled
+* Smooth steps:		50
+* Smooth timeout:		300
+* Daily screen temp:		6500
+* Nightly screen temp:		4000
+* Long transition:		Disabled
+* Ambient gamma:		Disabled
+* Restore On Exit:		Disabled
+
+### DAYTIME ###
+* User position:		Unset
+* User set sunrise:		Unset
+* User set sunset:		Unset
+* Event duration:		1800
+* Sunrise offset:		0
+* Sunset offset:		0
+
+### DIMMER ###
+* ENTER Smooth trans:		Enabled
+* ENTER Smooth step:		0.05
+* ENTER Smooth timeout:		30
+* ENTER Smooth fixed:		0
+* EXIT Smooth trans:		Enabled
+* EXIT Smooth step:		0.05
+* EXIT Smooth timeout:		30
+* EXIT Smooth fixed:		0
+* Timeouts:		AC 45	BATT 20
+* Backlight pct:		0.20
+
+### DPMS ###
+* Timeouts:		AC 900	BATT 300
+
+### SCREEN ###
+* Timeouts:		AC 30	BATT -1
+* Contrib:		0.10
+* Samples:		10
+
+### INHIBIT ###
+* Docked:		Disabled
+* PowerManagement:		Disabled
+* Backlight:		Disabled
+
+(I)[09:23:05]{main.c:145}	Clightd found, version: 5.6-77b1953.
+(I)[09:23:05]{keyboard.c:158}	Keyboard backlight calibration supported.
+(I)[09:23:05]{interface.c:176}	Monitoring requests to org.freedesktop.ScreenSaver name owner.
+(I)[09:23:05]{upower.c:55}	AC cable connected.
+(I)[09:23:05]{upower.c:66}	Laptop lid opened.
+(W)[09:23:35]{location.c:90}	Timed out waiting on location provided by Geoclue2. Killing module.
+(W)[09:23:35]{daytime.c:72}	No location provider found; fallback to DAY daytime.
+(W)[09:23:35]{gamma.c:91}	Killing GAMMA as no location provider is available.
+(I)[09:23:36]{backlight.c:457}	Ambient brightness: 0.990 -> Screen backlight pct: 0.997.
+(I)[09:23:36]{keyboard.c:164}	Ambient brightness: 0.990 -> Keyboard backlight pct: 0.000.
+(W)[09:23:36]{bus.c:199}	Error in async req: unknown
+(I)[09:33:37]{backlight.c:455}	Ambient brightness: 0.991 (-0.008 screen compensation) -> Screen backlight pct: 0.996.
+(I)[09:33:37]{keyboard.c:164}	Ambient brightness: 0.991 -> Keyboard backlight pct: 0.000.
+(I)[09:43:38]{backlight.c:455}	Ambient brightness: 0.989 (-0.015 screen compensation) -> Screen backlight pct: 0.995.
+(I)[09:43:38]{keyboard.c:164}	Ambient brightness: 0.989 -> Keyboard backlight pct: 0.000.
+(I)[09:53:39]{backlight.c:455}	Ambient brightness: 0.987 (-0.015 screen compensation) -> Screen backlight pct: 0.994.
+(I)[09:53:39]{keyboard.c:164}	Ambient brightness: 0.987 -> Keyboard backlight pct: 0.001.
+(I)[10:03:39]{backlight.c:455}	Ambient brightness: 0.990 (-0.030 screen compensation) -> Screen backlight pct: 0.992.
+(I)[10:03:39]{keyboard.c:164}	Ambient brightness: 0.990 -> Keyboard backlight pct: 0.000.
+(I)[10:08:23]{signal.c:48}	Received 15. Leaving.

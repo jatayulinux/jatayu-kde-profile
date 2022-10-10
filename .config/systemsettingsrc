@@ -1,0 +1,26 @@
+[KFileDialog Settings]
+Recent Files[$e]=fluent-gtk-theme-2022.06.15.tar.gz,file:$HOME/pkgbuilds/fluent-gtk-theme/fluent-gtk-theme-2022.06.15.tar.gz
+Recent URLs[$e]=file:$HOME/pkgbuilds/fluent-gtk-theme/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP-1 Height 1920x1080=458
+eDP-1 Width 1920x1080=404
+
+[MainWindow]
+HDMI-1 Height 1600x900=696
+HDMI-1 Width 1600x900=1012
+HDMI-1 Window-Maximized 1600x900=true
+HDMI-1 XPosition 1600x900=0
+HDMI-1 YPosition 1600x900=29
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAP1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1013
+eDP-1 Width 1920x1080=1020
+eDP-1 XPosition 1920x1080=22
+eDP-1 YPosition 1920x1080=62
+
+[Open-with settings]
+CompletionMode=1
+History=latt,kcalc,vlc,firefo

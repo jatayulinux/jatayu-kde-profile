@@ -1,0 +1,27 @@
+[
+    {
+        "enabled": true,
+        "id": "c165885b11388187cb21171e49188fca",
+        "metadata": {
+            "fullname": "xrandr-Najing CEC Panda FPD Technology CO. ltd",
+            "name": "eDP-1"
+        },
+        "mode": {
+            "refresh": 59.93387985229492,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    }
+]

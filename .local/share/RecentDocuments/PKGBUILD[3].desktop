@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=PKGBUILD
+Type=Link
+URL[$e]=file:$HOME/pkgbuilds/jatayu-wallpapers/PKGBUILD
+X-KDE-LastOpenedWith=leafpad

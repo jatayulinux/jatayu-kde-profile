@@ -1,0 +1,563 @@
+[file:///boot/grub/themes/sleek/theme.txt]
+Bookmarks=
+Checksum=8efbcfaf9dc74e6216c3c3a0c933d3cdfda1df0f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,9,22,28.407
+URL=file:///boot/grub/themes/sleek/theme.txt
+
+[file:///etc/default/grub]
+Bookmarks=
+Checksum=405415e8dccbc04279efafb016ed40ddd44a8fa4
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,9,23,53.619
+URL=file:///etc/default/grub
+
+[file:///home/vishnu/.config/KDE/UserFeedback.conf]
+Bookmarks=
+Checksum=1e966cb7b954e25ee6581e62832795b6603f7bb7
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,29,28.626
+URL=file:///home/vishnu/.config/KDE/UserFeedback.conf
+
+[file:///home/vishnu/.config/fish/config.fish]
+Bookmarks=
+Checksum=d714361fdad467fb837c5fe5d726a262ee4c134f
+Encoding=UTF-8
+Highlighting=Fish
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Fish
+Mode Set By User=false
+Time=2022,10,8,9,8,58.124
+URL=file:///home/vishnu/.config/fish/config.fish
+
+[file:///home/vishnu/.config/fish/fish_variables]
+Bookmarks=
+Checksum=6085766cf7a16fb547edb05957931572be9c925d
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,9,9,5.073
+URL=file:///home/vishnu/.config/fish/fish_variables
+
+[file:///home/vishnu/.config/katemetainfos]
+Bookmarks=
+Checksum=a9fc34f0d08d26cb4e8f7b8bb6a5f1cde6f29234
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,22,46.59
+URL=file:///home/vishnu/.config/katemetainfos
+
+[file:///home/vishnu/.config/kdedefaults/kcminputrc]
+Bookmarks=
+Checksum=4ef756545d4581c6e491ff390f3ae877d136e954
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,25,10.893
+URL=file:///home/vishnu/.config/kdedefaults/kcminputrc
+
+[file:///home/vishnu/.config/kdedefaults/kdeglobals]
+Bookmarks=
+Checksum=534c47a49419058a68897a272b68dda9354c6d01
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,8,49,36.32
+URL=file:///home/vishnu/.config/kdedefaults/kdeglobals
+
+[file:///home/vishnu/.config/kdedefaults/kwinrc]
+Bookmarks=
+Checksum=c97c4a2eef31c210b88b30e0b7f6f75172d3cbff
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,29,28.626
+URL=file:///home/vishnu/.config/kdedefaults/kwinrc
+
+[file:///home/vishnu/.config/kdedefaults/package]
+Bookmarks=
+Checksum=c87b55dcc150c3875c7ae610c32ec34c8067c161
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,26,26.806
+URL=file:///home/vishnu/.config/kdedefaults/package
+
+[file:///home/vishnu/.config/kdedefaults/plasmarc]
+Bookmarks=
+Checksum=bf9410b54878e37fede86a7922ebf58630ef3f90
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,8,49,47.267
+URL=file:///home/vishnu/.config/kdedefaults/plasmarc
+
+[file:///home/vishnu/.config/kdeglobals]
+Bookmarks=
+Checksum=36370fa2604d636b10fd3e6c1d13881ac00cdcb8
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,23,30.524
+URL=file:///home/vishnu/.config/kdeglobals
+
+[file:///home/vishnu/.config/kglobalshortcutsrc]
+Bookmarks=
+Checksum=f406229ecb29c4649b4f5131fb47d6a44693efe9
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,23,38.986
+URL=file:///home/vishnu/.config/kglobalshortcutsrc
+
+[file:///home/vishnu/.config/khotkeysrc]
+Bookmarks=
+Checksum=9536e8a06319b6a3e704c7cfa47ac1d1e7fc0666
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,23,46.983
+URL=file:///home/vishnu/.config/khotkeysrc
+
+[file:///home/vishnu/.config/kscreenlockerrc]
+Bookmarks=
+Checksum=3b9c0c3306e536355bc9c656f8349112cc666ac3
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,22,23.433
+URL=file:///home/vishnu/.config/kscreenlockerrc
+
+[file:///home/vishnu/.config/ksmserverrc]
+Bookmarks=
+Checksum=c4691e0e773f22ab0326b080cd23fdef2f41958b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,23,55.143
+URL=file:///home/vishnu/.config/ksmserverrc
+
+[file:///home/vishnu/.config/ksplashrc]
+Bookmarks=
+Checksum=c51f6d07ada0c0cf4e7fa5c6f1de03e51daaa54c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,21,54.528
+URL=file:///home/vishnu/.config/ksplashrc
+
+[file:///home/vishnu/.config/kwinrc]
+Bookmarks=
+Checksum=4215242b8a944734c29ca52684980a8a4f08b7e3
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,24,17.693
+URL=file:///home/vishnu/.config/kwinrc
+
+[file:///home/vishnu/.config/kwinrulesrc]
+Bookmarks=
+Checksum=a65d21feeee06bf0fbc743de99f268df0de3e380
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,24,24.26
+URL=file:///home/vishnu/.config/kwinrulesrc
+
+[file:///home/vishnu/.config/plasma-localerc]
+Bookmarks=
+Checksum=785e5e50459ba5f3bca5997c0e9912027cba6349
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,24,31.65
+URL=file:///home/vishnu/.config/plasma-localerc
+
+[file:///home/vishnu/.config/plasma-nm]
+Bookmarks=
+Checksum=f244d44ea9c911f35aea6f311046da03f9e8daf5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,24,36.703
+URL=file:///home/vishnu/.config/plasma-nm
+
+[file:///home/vishnu/.config/plasmarc]
+Bookmarks=
+Checksum=bf9410b54878e37fede86a7922ebf58630ef3f90
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,5,24,42.857
+URL=file:///home/vishnu/.config/plasmarc
+
+[file:///home/vishnu/.kde4/share/config/kdeglobals]
+Bookmarks=
+Checksum=508a40ce41020ff7ed966554b3b08af8db7b80a1
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,7,6,6.198
+URL=file:///home/vishnu/.kde4/share/config/kdeglobals
+
+[file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.dolphin.conf]
+Bookmarks=
+Checksum=55d5882bf741bcc53a310bf9412508889666d4f2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,8,48,9.592
+URL=file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.dolphin.conf
+
+[file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.kate.conf]
+Bookmarks=
+Checksum=342e0192cde2c958dfd44d5abf8d75ce53df8502
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,8,48,3.034
+URL=file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.kate.conf
+
+[file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.plasmashell.conf]
+Bookmarks=
+Checksum=d48b0a3b5f33216236caf81d8d74e7bef9b51e4a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,8,47,58.158
+URL=file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.plasmashell.conf
+
+[file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.systemsettings.conf]
+Bookmarks=
+Checksum=d48b0a3b5f33216236caf81d8d74e7bef9b51e4a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,8,47,54.461
+URL=file:///home/vishnu/Documents/configs-081022-1237pm/.config/kde.org/UserFeedback.org.kde.systemsettings.conf
+
+[file:///home/vishnu/Documents/configs-081022-1237pm/.config/kdedefaults/plasmarc]
+Bookmarks=
+Checksum=bf9410b54878e37fede86a7922ebf58630ef3f90
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,8,48,18.164
+URL=file:///home/vishnu/Documents/configs-081022-1237pm/.config/kdedefaults/plasmarc
+
+[file:///home/vishnu/Documents/gitpasswd.txt]
+Bookmarks=
+Checksum=d9a8dba1223e447eebedf03df61613fb523222ec
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,9,2,42,40.325
+URL=file:///home/vishnu/Documents/gitpasswd.txt
+
+[file:///home/vishnu/Documents/kde-configuration-files/scripts/delete-kde-configuration-files.fish]
+Bookmarks=
+Checksum=8bde7f55447dce8461fd3b0d9b77eb7b9895b11b
+Encoding=UTF-8
+Highlighting=Fish
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Fish
+Mode Set By User=false
+Time=2022,10,8,8,58,36.251
+URL=file:///home/vishnu/Documents/kde-configuration-files/scripts/delete-kde-configuration-files.fish
+
+[file:///home/vishnu/Documents/kde-configuration-files/scripts/setupKDE.fish]
+Bookmarks=
+Checksum=796b947d28fdfdc30d9809601d01b64ef7993fa9
+Encoding=UTF-8
+Highlighting=Fish
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Fish
+Mode Set By User=false
+Time=2022,10,8,8,58,58.324
+URL=file:///home/vishnu/Documents/kde-configuration-files/scripts/setupKDE.fish
+
+[file:///home/vishnu/Downloads/Sleek theme-dark/install.sh]
+Bookmarks=
+Checksum=a814bb646af219b73120e4f64b4a2edf742049b9
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2022,10,8,9,16,45.659
+URL=file:///home/vishnu/Downloads/Sleek theme-dark/install.sh
+
+[file:///home/vishnu/Downloads/Sleek theme-dark/sleek/theme.txt]
+Bookmarks=
+Checksum=8efbcfaf9dc74e6216c3c3a0c933d3cdfda1df0f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,9,17,25.623
+URL=file:///home/vishnu/Downloads/Sleek theme-dark/sleek/theme.txt
+
+[file:///home/vishnu/Downloads/Sleek theme-dark/uninstall.sh]
+Bookmarks=
+Checksum=6a79acc852aef3c37e0ca2089e6c751cb57f451d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2022,10,8,9,14,35.478
+URL=file:///home/vishnu/Downloads/Sleek theme-dark/uninstall.sh
+
+[file:///home/vishnu/Downloads/atom/PKGBUILD]
+Bookmarks=
+Checksum=2ba9e879c598553e264b093ead3037473f440ae2
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2022,10,8,7,39,25.364
+URL=file:///home/vishnu/Downloads/atom/PKGBUILD
+
+[file:///home/vishnu/lab/jatayu-cala-config/etc/calamares/settings.conf]
+Bookmarks=
+Checksum=c3e221c08d1775dfe1556b4dfd3e9826066d3708
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,9,8,10,22.452
+URL=file:///home/vishnu/lab/jatayu-cala-config/etc/calamares/settings.conf
+
+[file:///home/vishnu/lab/pkgbuild/jatayu-wallpapers/PKGBUILD]
+Bookmarks=
+Checksum=f83b2c0873f12f54b86d029800fd0f93dab05603
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2022,10,9,3,11,7.751
+URL=file:///home/vishnu/lab/pkgbuild/jatayu-wallpapers/PKGBUILD
+
+[file:///home/vishnu/pkgbuilds/deepin icon theme/PKGBUILD]
+Bookmarks=
+Checksum=51958afea50b270717d70162587d97f1231fe0a9
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2022,10,9,3,11,6.499
+URL=file:///home/vishnu/pkgbuilds/deepin icon theme/PKGBUILD
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/actual_brightness]
+Bookmarks=
+Checksum=1c279dc14763a310812d1feb9774779ceb6ba908
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,0.694
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/actual_brightness
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/bl_power]
+Bookmarks=
+Checksum=f1f86e40a3ee49a626226563bbc18de0b70e260a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,4.741
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/bl_power
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/brightness]
+Bookmarks=
+Checksum=1c279dc14763a310812d1feb9774779ceb6ba908
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,8.661
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/brightness
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/max_brightness]
+Bookmarks=
+Checksum=1c279dc14763a310812d1feb9774779ceb6ba908
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,12.934
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/max_brightness
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/power/control]
+Bookmarks=
+Checksum=a7ab97cb61a17a551a49db277e53e3d9769c6103
+Encoding=UTF-8
+Highlighting=Debian Control
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Debian Control
+Mode Set By User=false
+Time=2022,10,8,10,10,37.871
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/power/control
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/power/runtime_active_time]
+Bookmarks=
+Checksum=f1f86e40a3ee49a626226563bbc18de0b70e260a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,30.014
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/power/runtime_active_time
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/power/runtime_suspended_time]
+Bookmarks=
+Checksum=f1f86e40a3ee49a626226563bbc18de0b70e260a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,32.991
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/power/runtime_suspended_time
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/scale]
+Bookmarks=
+Checksum=487fb429d4e5da28015bf0f181caf115f2c192d9
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,16.538
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/scale
+
+[file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/type]
+Bookmarks=
+Checksum=61b32bca5c4acc9149aef9f8fcb225de60535cd1
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,10,8,10,10,19.981
+URL=file:///sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/backlight/amdgpu_bl1/type
