@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=text-plain
-Name=PKGBUILD
-Type=Link
-URL[$e]=file:$HOME/pkgbuilds/sddm-theme/PKGBUILD
-X-KDE-LastOpenedWith=leafpad
