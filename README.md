@@ -1,1 +1,0 @@
-# jatayu-kde-profile
